@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1590831889 source:e:\anul-ii\sem ii\proiect poo\proiect poo\main.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1590831889 source:e:\anul-ii\sem ii\proiect poo\proiect poo\gestiune.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1590831889 e:\anul-ii\sem ii\proiect poo\proiect poo\gestiune.h
+	<iostream>
+
+1590828510 source:d:\facultate anul 2 si 3\anul-ii\sem ii\proiect poo\proiect poo\gestiune.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1590828289 d:\facultate anul 2 si 3\anul-ii\sem ii\proiect poo\proiect poo\gestiune.h
+	<iostream>
+
+1590831859 source:d:\facultate anul 2 si 3\anul-ii\sem ii\proiect poo\proiect poo\main.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1647901231 source:c:\users\pc\desktop\poo prodan\proiect poo\proiect poo\gestiune.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
+1647901231 c:\users\pc\desktop\poo prodan\proiect poo\proiect poo\gestiune.h
+	<iostream>
+
+1651483339 source:c:\users\pc\desktop\poo prodan\proiect poo\proiect poo\main.cpp
+	<iostream>
+	"Gestiune.h"
+	<vector>
+	<stdlib.h>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+
